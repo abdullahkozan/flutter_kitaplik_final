@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Bu uygulama Dr.Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3311409 kodlu MOBİL PROGRAMLAMA dersi kapsamında 193311061 numaralı Öğrenci Öğrenir tarafından 25 Haziran 2021 günü yapılmıştır.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
